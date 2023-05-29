@@ -1,6 +1,6 @@
 {
   "name": "@jasonmarq/html-2-javascript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple way to create a JS object from any DOM element",
   "main": "index.js",
   "scripts": {
