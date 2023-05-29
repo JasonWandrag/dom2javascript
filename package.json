@@ -1,0 +1,12 @@
+{
+  "name": "html-2-javascript",
+  "version": "1.0.0",
+  "description": "A simple way to create a JS object from any DOM element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Wandrag",
+  "license": "ISC"
+}
