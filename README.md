@@ -14,7 +14,7 @@ To use the `createMarkdownForElement` function to create a JavaScript Object rep
 ```javascript
 const page = document.querySelector("html");
 ```
-2. Call the createMarkdownForElement function, passing the HTML element's tag name and the element itself as parameters:
+2. Call the `createMarkdownForElement` function, passing the HTML element's tag name and the element itself as parameters:
 ```javascript
 const markdown = createMarkdownForElement(page.tagName.toLowerCase(), page);
 ```
