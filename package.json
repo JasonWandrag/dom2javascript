@@ -1,5 +1,5 @@
 {
-  "name": "html-2-javascript",
+  "name": "@jasonmarq/html-2-javascript",
   "version": "1.0.0",
   "description": "A simple way to create a JS object from any DOM element",
   "main": "index.js",
